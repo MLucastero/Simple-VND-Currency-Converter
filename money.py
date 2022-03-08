@@ -1,3 +1,4 @@
+#Convert to vietnam dong only
 while True:
     print('''
 #     # ##    # ######      
